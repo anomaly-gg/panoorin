@@ -1,0 +1,17 @@
+{
+  "tiles": [
+    {
+      "id": "sigabo",
+      "name": "Sigabo",
+      "subtitle": "Coco Martin",
+      "mark": "SIG",
+      "color": "#C62828",
+      "section": "DRAMA",
+      "show": {
+        "search": "Coco Martin's Sigabo Episode",
+        "match": "Sigabo",
+        "channel": "UCstEtN0pgOmCf02EdXsGChw"
+      }
+    }
+  ]
+}
