@@ -18,8 +18,11 @@ A show tile needs `show`:
 - `search`  - what to type into YouTube search ("Coco Martin's Sigabo Episode")
 - `match`   - the show's name as the Worker lists it ("Coco Martin's Sigabo");
               an exact match wins, otherwise any show whose name contains it
-- `channel` - the uploading channel ID (ABS-CBN Entertainment = UCstEtN0pgOmCf02EdXsGChw,
-              GMA Network = UCKL5hAuzgFQsyrsQKgU0Qng)
+- `channel` - the uploading channel ID:
+              ABS-CBN Entertainment UCstEtN0pgOmCf02EdXsGChw   GMA Network   UCKL5hAuzgFQsyrsQKgU0Qng
+              GMA Public Affairs    UCj5RwDivLksanrNvkW0FB4w   GMA News      UCqYw-CTd1dU2yGI71sEyqNw
+              ABS-CBN News          UCE2606prvXQc_noEqKxVJXA   News5         UCGEbMwiX774cseKvJqF9R2g
+              PTV                   UCJCUbMaY593_4SN1QPG7NFQ
 
 Only uploads titled "... Episode N ..." from that channel count, so clips,
 highlights and recaps are ignored. "Episode N (1/3)" parts are grouped.

@@ -38,6 +38,32 @@
         "match": "TV Patrol",
         "channel": "UCE2606prvXQc_noEqKxVJXA"
       }
+    },
+    {
+      "id": "frontline-pilipinas",
+      "name": "Frontline Pilipinas",
+      "subtitle": "News5 - buong balita",
+      "mark": "5",
+      "color": "#5E35B1",
+      "section": "NEWS",
+      "show": {
+        "search": "Frontline Pilipinas Rewind",
+        "match": "Frontline Pilipinas",
+        "channel": "UCGEbMwiX774cseKvJqF9R2g"
+      }
+    },
+    {
+      "id": "ulat-bayan",
+      "name": "Ulat Bayan",
+      "subtitle": "PTV - buong balita",
+      "mark": "PTV",
+      "color": "#455A64",
+      "section": "NEWS",
+      "show": {
+        "search": "Ulat Bayan",
+        "match": "Ulat Bayan",
+        "channel": "UCJCUbMaY593_4SN1QPG7NFQ"
+      }
     }
   ]
 }
