@@ -9,8 +9,34 @@
       "section": "DRAMA",
       "show": {
         "search": "Coco Martin's Sigabo Episode",
-        "match": "Sigabo",
+        "match": "Coco Martin's Sigabo",
         "channel": "UCstEtN0pgOmCf02EdXsGChw"
+      }
+    },
+    {
+      "id": "24-oras",
+      "name": "24 Oras",
+      "subtitle": "GMA - buong balita",
+      "mark": "24",
+      "color": "#B02A2A",
+      "section": "NEWS",
+      "show": {
+        "search": "24 Oras Livestream",
+        "match": "24 Oras",
+        "channel": "UCqYw-CTd1dU2yGI71sEyqNw"
+      }
+    },
+    {
+      "id": "tv-patrol",
+      "name": "TV Patrol",
+      "subtitle": "ABS-CBN - buong balita",
+      "mark": "TVP",
+      "color": "#EF6C00",
+      "section": "NEWS",
+      "show": {
+        "search": "TV Patrol Playback",
+        "match": "TV Patrol",
+        "channel": "UCE2606prvXQc_noEqKxVJXA"
       }
     }
   ]

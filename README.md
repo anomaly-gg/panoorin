@@ -10,9 +10,14 @@ Each entry is one tile, matched by `id`:
 - add an entry -> a new tile appears at the end
 Tiles added on the TV itself are never touched.
 
+Easier: add shows on the TV itself - the editor's "MAGDAGDAG NG PALABAS" list
+shows every show the Worker (../worker) has seen a full episode of in the last
+two weeks, one OK to add. This file is for tiles you want pushed from the PC.
+
 A show tile needs `show`:
 - `search`  - what to type into YouTube search ("Coco Martin's Sigabo Episode")
-- `match`   - a word every episode title contains ("Sigabo")
+- `match`   - the show's name as the Worker lists it ("Coco Martin's Sigabo");
+              an exact match wins, otherwise any show whose name contains it
 - `channel` - the uploading channel ID (ABS-CBN Entertainment = UCstEtN0pgOmCf02EdXsGChw,
               GMA Network = UCKL5hAuzgFQsyrsQKgU0Qng)
 
