@@ -64,6 +64,71 @@
         "match": "Ulat Bayan",
         "channel": "UCJCUbMaY593_4SN1QPG7NFQ"
       }
+    },
+    {
+      "id": "someone-someday",
+      "name": "Someone, Someday",
+      "subtitle": "ABS-CBN - Kathryn, James, Maja",
+      "mark": "SS",
+      "color": "#AD1457",
+      "section": "DRAMA",
+      "show": {
+        "search": "Someone, Someday Full Episode",
+        "match": "Someone, Someday",
+        "channel": "UCstEtN0pgOmCf02EdXsGChw"
+      }
+    },
+    {
+      "id": "the-master-cutter",
+      "name": "The Master Cutter",
+      "subtitle": "GMA - Dingdong Dantes",
+      "mark": "MC",
+      "color": "#2E7D32",
+      "section": "DRAMA",
+      "show": {
+        "search": "The Master Cutter Full Episode",
+        "match": "The Master Cutter",
+        "channel": "UCKL5hAuzgFQsyrsQKgU0Qng"
+      }
+    },
+    {
+      "id": "taskforce-firewall",
+      "name": "Taskforce Firewall",
+      "subtitle": "GMA - gabi-gabi",
+      "mark": "TF",
+      "color": "#1565C0",
+      "section": "DRAMA",
+      "show": {
+        "search": "Taskforce Firewall Full Episode",
+        "match": "Taskforce Firewall",
+        "channel": "UCKL5hAuzgFQsyrsQKgU0Qng"
+      }
+    },
+    {
+      "id": "kamao",
+      "name": "Kamao",
+      "subtitle": "GMA - hapon",
+      "mark": "KAM",
+      "color": "#EF6C00",
+      "section": "DRAMA",
+      "show": {
+        "search": "Kamao Full Episode",
+        "match": "Kamao",
+        "channel": "UCKL5hAuzgFQsyrsQKgU0Qng"
+      }
+    },
+    {
+      "id": "born-to-shine",
+      "name": "Born to Shine",
+      "subtitle": "GMA - hapon",
+      "mark": "BTS",
+      "color": "#6A1B9A",
+      "section": "DRAMA",
+      "show": {
+        "search": "Born To Shine Full Episode",
+        "match": "Born To Shine",
+        "channel": "UCKL5hAuzgFQsyrsQKgU0Qng"
+      }
     }
   ]
 }
